@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Food liked by us</title>
+</head>
+<body>
+
+<h1>Food liked by us  </h1>
+<p>-Sea food-</p>
+<p>-Fast food-</p>
+<a> href="https://google.com"> Links for sea food</a>
+<a >href="https://google.com"> Links for fast food</a>
+
+
+</body>
+</html>
